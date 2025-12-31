@@ -36,7 +36,7 @@ A modern, full-stack authentication application built with Next.js 16, Prisma 7,
 1. Clone the repository:
 ```bash
 git clone <your-repo-url>
-cd cohort3
+
 ```
 
 2. Install dependencies:
